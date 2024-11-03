@@ -2,7 +2,8 @@ Important commands:
 1. python -m venv .venv //making virtal environment
 
 2. .venv/scripts/activate //activating virtual environment
-   (Set-ExecutionPolicy Unrestricted -Force) if you face an error here
+
+3. (Set-ExecutionPolicy Unrestricted -Force) if you face an error here
 
 4. pip install grpcio grpcio-tools //installing grpc tools
 
